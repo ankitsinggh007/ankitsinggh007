@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Flikart clone](https://brilliant-truffle-1cecdc.netlify.app/)
 
-- 🌱 I’m currently learning **Nextjs,SQL**
+- 🌱 my portfolio:- https://ankit-portfolio-5e7c.vercel.app/
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankitsinggh007](https://github.com/ankitsinggh007)
 
