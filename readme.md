@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsinggh007&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsinggh007" /> </p>
 
-- 🔭 I’m currently working learning nextjs and typescript and also document it on Notion [https://www.notion.so/Next-js-Notes-127a5edfd0158064969ae68277947fc1](Next.js Docs) 
+- 🔭 I’m currently working learning nextjs and typescript and also document it on Notion [Next.js Docs](https://www.notion.so/Next-js-Notes-127a5edfd0158064969ae68277947fc1) 
 
-- 🌱 my portfolio:- https://ankit-portfolio-5e7c.vercel.app/
+- 🌱 my portfolio:- [Portfolio](https://ankit-portfolio-5e7c.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ankitsinggh007](https://github.com/ankitsinggh007)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/ankitsinggh007)
 
 - 💬 Ask me about **react,expressjs,javascript**
 
